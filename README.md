@@ -8,7 +8,7 @@ Here is deployed version:
 
 ## Introduction
 
-Simple js blog with using anime.js library for text animation while scrolling.
+Simple js blog with using anime.js library for text animation while scrolling. Fully responsive.
 
 [blog]
 
